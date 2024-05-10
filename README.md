@@ -1,20 +1,20 @@
 ![MasterHead](https://propulsive.in/assets/img/service-icon/dev.gif)
 
 <h1 align="center">Hi 👋, I'm Sujit Nirmal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt = "coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacksujit&label=Profile%20views&color=0e75b6&style=flat" alt="blacksujit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blacksujit" alt="blacksujit" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Hospital Location System**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **MongoDB ,Firebase from great-learning-platform**
+- 🌱 I’m currently learning **TensorFlow Pytorch ComputerVisison**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **Frontend, Backend, Reinforcement-Learning**
+- 💬 Ask me about **Web  , Machine Learning]**
 
 - 📫 How to reach me **nirmalsujit541@gmail.com**
 
