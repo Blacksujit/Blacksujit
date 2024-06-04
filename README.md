@@ -1,6 +1,5 @@
 ![MasterHead](https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif)
 
-
 <h1 align="center">Hi 👋, I'm Sujit Nirmal</h1>
 <h3 align="center">Fullstack AI Developer  </h3>
 
@@ -37,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blacksujit&show_icons=true&locale=en" alt="blacksujit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacksujit&" alt="blacksujit" /></p>
+
+
+![octate](https://github.com/Blacksujit/Blacksujit/assets/148805811/f0ee1e27-eb1d-48fb-976b-85ddc3184f30)
