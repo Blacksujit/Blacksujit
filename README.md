@@ -37,5 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacksujit&" alt="blacksujit" /></p>
 
-
-![octate](https://github.com/Blacksujit/Blacksujit/assets/148805811/f0ee1e27-eb1d-48fb-976b-85ddc3184f30)
