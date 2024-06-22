@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sujit Nirmal</h1>
 <h3 align="center">Fullstack AI Developer  </h3>
 
+
+<img align ="center" width="300" alt = "coding" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW03OG5nbm5jZ3ZyNmttMGZxcml5aG9sdWJ5anRlemVmc244bmVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dy7RKjBdekd1RPaXIw/giphy.webp">
+
 <img align="right" alt = "coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacksujit&label=Profile%20views&color=0e75b6&style=flat" alt="blacksujit" /> </p>
