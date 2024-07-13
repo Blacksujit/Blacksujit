@@ -4,7 +4,15 @@
 <h3 align="center">AI Fullstack Developer  </h3>
 
 
-<img align ="center" width="300" alt = "coding" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW03OG5nbm5jZ3ZyNmttMGZxcml5aG9sdWJ5anRlemVmc244bmVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dy7RKjBdekd1RPaXIw/giphy.webp">https://blackshadow.hashnode.dev/
+<img align ="center" width="300" alt = "coding" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW03OG5nbm5jZ3ZyNmttMGZxcml5aG9sdWJ5anRlemVmc244bmVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dy7RKjBdekd1RPaXIw/giphy.webp"> 
+
+<a href="https://blackshadow.hashnode.dev/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1edd3ad3-f2fd-4d1f-86cf-66c0b553bb1a" alt="Hasnode Blog" />
+    </a>
+
+
+
+
 
 <img align="right" alt = "coding" width="500" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
