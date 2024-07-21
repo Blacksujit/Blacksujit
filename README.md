@@ -10,8 +10,10 @@
         <img src="https://github.com/user-attachments/assets/1edd3ad3-f2fd-4d1f-86cf-66c0b553bb1a" alt="Hasnode Blog" />
     </a>
 
-
-
+[![Blacksujit's GitHub | Stats](https://stats.quira.sh/Blacksujit/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)
+[![Blacksujit's GitHub | Topics Over Time](https://stats.quira.sh/Blacksujit/topics-over-time?theme=dark&width=400&height=20)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)  
+[![Blacksujit's GitHub | Languages Over Time](https://stats.quira.sh/Blacksujit/languages-over-time?theme=dark&width=400&height=20)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)
+[![Blacksujit's Stack Overflow | Stats](https://stats.quira.sh/Blacksujit/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)
 
 
 <img align="right" alt = "coding" width="500" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
