@@ -3,12 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sujit Nirmal</h1>
 <h3 align="center">Python Dev </h3>
 
-## Click on below image:
 
-[![image](https://github.com/user-attachments/assets/a210cf60-e018-4153-af9d-f5baa13f0613)](https://portfolio-website-black-shadows-projects.vercel.app/)
-
-
-<img align ="center" width="300" alt = "coding" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW03OG5nbm5jZ3ZyNmttMGZxcml5aG9sdWJ5anRlemVmc244bmVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dy7RKjBdekd1RPaXIw/giphy.webp"> 
 
 ## Click on below image:
 
