@@ -4,7 +4,6 @@
 <h3 align="center">Python Dev </h3>
 
 
-
 ## Click on below image:
 
 <a href="https://blackshadow.hashnode.dev/" target="_blank">
