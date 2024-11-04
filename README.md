@@ -10,6 +10,11 @@
         <img src="https://github.com/user-attachments/assets/1edd3ad3-f2fd-4d1f-86cf-66c0b553bb1a" alt="Hasnode Blog" />
     </a>
 
+# Hactoberfest 2024 Badges:
+
+ [![An image of @blacksujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blacksujit)](https://holopin.io/@blacksujit)
+
+ 
 [![Blacksujit's GitHub | Stats](https://stats.quira.sh/Blacksujit/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)
 [![Blacksujit's GitHub | Topics Over Time](https://stats.quira.sh/Blacksujit/topics-over-time?theme=dark&width=400&height=20)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)  
 [![Blacksujit's GitHub | Languages Over Time](https://stats.quira.sh/Blacksujit/languages-over-time?theme=dark&width=400&height=20)](https://quira.sh?utm_source=widgets&utm_campaign=Blacksujit)
