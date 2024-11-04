@@ -10,7 +10,7 @@
         <img src="https://github.com/user-attachments/assets/1edd3ad3-f2fd-4d1f-86cf-66c0b553bb1a" alt="Hasnode Blog" />
     </a>
 
-# Hactoberfest 2024 Badges:
+## Hactoberfest 2024 Badges:
 
  [![An image of @blacksujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blacksujit)](https://holopin.io/@blacksujit)
 
