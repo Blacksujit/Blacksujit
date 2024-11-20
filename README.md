@@ -4,7 +4,7 @@
 <h3 align="center">Python Dev </h3>
 
 
-## Click on below image:
+## For Valuable Insights Visit My Blogs:
 
 <a href="https://blackshadow.hashnode.dev/" target="_blank">
         <img src="https://github.com/user-attachments/assets/1edd3ad3-f2fd-4d1f-86cf-66c0b553bb1a" alt="Hasnode Blog" />
