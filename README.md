@@ -1,7 +1,7 @@
 ![MasterHead](https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif)
 
 <h1 align="center">Hi 👋, I'm Sujit Nirmal</h1>
-<h3 align="center">Python Dev </h3>
+<h2 align="center">AI/ML Dev </h2>
 
 
 ## For Valuable Insights Visit My Blogs:
