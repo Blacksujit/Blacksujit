@@ -105,7 +105,7 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blacksujit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff" width="100%"/>
 </div>
 
-
+---
 
 ### 🤝 Connect With Me
 
@@ -128,7 +128,7 @@ me.say_hi()
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@BlackShadow1)
 
 </div>
----
+
 
 ---
 
