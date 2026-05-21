@@ -33,13 +33,12 @@ me.say_hi()
 
 ### 🎯 Current Focus
 
-- 🔭 **Working on:** Advanced Machine Learning projects with real-world applications
-- 🌱 **Learning:** TensorFlow, PyTorch, Computer Vision techniques, MLOps
-- 👯 **Open to:** Collaborating on innovative AI/ML projects and research
-- 💬 **Ask me about:** Machine Learning, Deep Learning, Computer Vision, Web Development
+- 🔭 **Working on:** Multiagent Systems , Prouduction MLops and DevSecOps 
+- 🌱 **Learning:** Deep Agents , MCP's , MLops , Pytorch , VectorDB's , Deep tensors , Some heavy mathematics for niftys and shit :}
+- 👯 **Open to:** Collaborating on innovative Products across Domains in Tech
+- 💬 **Ask me about:** Machine Learning, Deep Learning, Computer Vision, Architectural Planning , Deep agents , Web for ML etc.
 - 📫 **Reach me:** [nirmalsujit981@gmail.com](mailto:nirmalsujit981@gmail.com)
-- ⚡ **Fun fact:** One coffee ☕ is enough to debug 1000 lines of code!
-
+- ⚡ **Fun fact:** On a mission to make AI future goverment of nation.... :}
 ---
 
 ### 🏆 Hacktoberfest Badges
