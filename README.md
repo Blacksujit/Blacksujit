@@ -11,6 +11,10 @@
 
 ### 👨‍💻 About Me
 
+<!--STARS_START-->
+![Total Stars](https://img.shields.io/badge/total_stars-80-yellow?style=for-the-badge&logo=github)
+<!--STARS_END-->
+
 I'm a passionate **AI/ML Developer** specializing in building scalable machine learning solutions and computer vision applications. Currently focused on pushing the boundaries of deep learning and contributing to innovative projects that solve real-world problems.
 
 ```python
