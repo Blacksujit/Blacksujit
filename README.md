@@ -15,23 +15,53 @@
 ![Total Stars](https://img.shields.io/badge/total_stars-80-yellow?style=for-the-badge&logo=github)
 <!--STARS_END-->
 
-I'm a passionate **AI/ML Developer** specializing in building scalable machine learning solutions and computer vision applications. Currently focused on pushing the boundaries of deep learning and contributing to innovative projects that solve real-world problems.
+# hey, i'm sujit 👋
+
+building AI that earns its compute.
+
+i like taking ideas from **0 → 1**, turning research into products, and shipping AI systems that people actually use.
+
+currently building with **LLMs**, **AI Agents**, **Computer Vision**, and **Backend Engineering**.
 
 ```python
-class SujitNirmal:
+class Sujit:
     def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.current_focus = ["Deep Learning", "Computer Vision", "NLP"]
-        self.learning = ["TensorFlow", "PyTorch", "Advanced CV Techniques"]
-        self.collaboration = "Open to ML/AI projects and research"
-        self.fuel = "Coffee ☕"
-    
-    def say_hi(self):
-        print("Let's build something intelligent together!")
+        self.title = "AI Engineer"
 
-me = SujitNirmal()
-me.say_hi()
+        self.building = [
+            "AI Agents",
+            "LLM Applications",
+            "Computer Vision Systems",
+            "Production ML APIs"
+        ]
+
+        self.toolbox = [
+            "Python",
+            "FastAPI",
+            "PyTorch",
+            "Docker",
+            "PostgreSQL",
+            "Redis"
+        ]
+
+        self.philosophy = [
+            "Build > Talk",
+            "Ship > Perfect",
+            "Impact > Hype"
+        ]
+
+    def currently(self):
+        return (
+            "building products that solve real problems "
+            "and survive production."
+        )
+
+me = Sujit()
+
+print(me.currently())
 ```
+
+> *Less hype. More shipping.*
 
 ---
 
