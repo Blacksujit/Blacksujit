@@ -1,102 +1,141 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujit%20Nirmal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20%E2%80%94%20Research%20in%2C%20Products%20out&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujit%20Nirmal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%E2%80%94%20Research%20in%2C%20Production%20out&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=I+read+papers+so+you+don%27t+have+to.;Then+I+ship+them+as+products.;Agents+%C2%B7+Vision+%C2%B7+Production+ML;0+%E2%86%92+1+is+my+favorite+number.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=680&lines=Agentic+RAG+%C2%B7+LLM+Evals+%C2%B7+Production+ML;Systems+that+survive+past+the+demo.;Measured+impact+%3E+vibes.+Always.;0+%E2%86%92+1+is+my+favorite+number.)](https://git.io/typing-svg)
 
+</div>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/assets/ascii-sunset.svg" type="image/svg+xml" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/assets/ascii-sunset.jpg" />
+<img src="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/assets/ascii-sunset.jpg" width="100%" alt="ASCII sunset over mountains — animated" />
+</picture>
+
+---
+
+## 🧭 Start Here — The 90-Second Version
+
+**I'm Sujit.** I don't build products. I build conversations. The internet remembers products that make people feel something—curiosity, delight, obsession. That's the kind of software I'm interested in creating. My playground is the intersection of Machine Learning, Deep Learning, and product engineering, where algorithms stop being research papers and start becoming products millions of people want to share.
+
+---
+
+## 📊 Impact, With Receipts
+
+Numbers I can defend in an architecture review, not vanity metrics:
+
+| Where | What I did | Measured Result |
+|---|---|---|
+| **Launchpad.AI** | Architected agentic RAG (Neo4j + FAISS + LangGraph), ran LLMOps A/B tests on retrieval & ranking strategies | **+2% revenue** |
+| **Endure Solutions** | Shipped full-stack 3D visualization tool; iterated on UX from real usage telemetry | **−23% bounce rate** |
+| **Endure Solutions** | Automated code review + CI/CD pipeline across the team | **+27% dev velocity** |
+| **Data-Thon 2025** | Built scalable ML model for e-commerce item-accuracy — 48-hour build, production-minded design | **🥈 2nd place** |
+| **Hackspiration (Devfolio)** | Shipped AI/ML solution under national hackathon deadline | **Top 30 nationwide** |
+| **HeadOn** | Designed structured AI training-data collection pipeline across a distributed team | **30+ contributors** |
+
+> Every claim above traces to an eval, an A/B test, or a dashboard. Ask me for the methodology — I have it.
+
+
+
+## 🔭 Current Research — What Keeps Me Up at Night
+
+The stuff I read and build when nobody's assigning me tickets. This is where the
+next projects come from.
+
+| Track | What I'm actually doing | What I'm chasing |
+|---|---|---|
+| **Local LLMs from scratch** | Implementing a coding-focused LLM from first principles — tokenizer, attention, training loop — running fully local, no API in the loop | Owning every layer of the stack instead of trusting a black box; local-first inference for private, offline coding agents |
+| **LLMs as research instruments** | Using the local model for real research work: literature triage, hypothesis stress-testing, math sanity checks | The gap between "agent that assists research" and "agent that hallucinates citations" — closing it with evals, not vibes |
+| **Dark matter** | Working through the evidence: galaxy rotation curves, gravitational lensing, CMB power spectra — and the particle candidates that keep failing their detectors | The most successful theory in physics with zero direct detections. That tension is the interesting part |
+| **Black hole theory** | Hawking radiation, the information paradox (Page curve, recent island-formula work), singularity theorems | Physics at the exact boundary where the math breaks. I keep reading because it refuses to make sense |
+
+> Fair warning: if my commit graph goes quiet for a week, I'm probably stuck inside
+> a Penrose diagram. I'll be back — usually with a repo.
+---
+
+## 🧠 What I Actually Think About
+
+- 🕸️ **Agentic RAG & knowledge graphs** — multi-hop, entity-aware retrieval; the hard question isn't "can the agent answer" but "when should it refuse to"
+- 🛡️ **LLM evaluation as an engineering discipline** — hallucination/jailbreak detection, explainable trust scoring, eval harnesses that catch regressions before users do
+- 👁️ **Applied computer vision** — inference pipelines that survive past the demo on real hardware
+- ⚙️ **Production discipline** — observability, CI/CD, containerization. An unmonitored model isn't shipped; it's a liability with an API key
+- 💸 **Inference economics** — cost-per-query is a design constraint in 2026, not an afterthought. Caching, distillation, and routing beat bigger models more often than people admit
+
+**Skeptical of:** agent frameworks with more YAML than reasoning, benchmark numbers nobody's tried to break, and "evals" that are three vibe checks in a trench coat.
+
+---
+
+## 📐 Engineering Principles
+
+```
+1. Design doc before code — two paragraphs beats two weeks of refactoring
+2. Every model ships with an eval; every eval ships with a failure taxonomy
+3. Measure in production, or it didn't happen
+4. The best abstraction is the one you still trust at 3 AM under load
+5. Delete more code than you write
+```
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Blacksujit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Blacksujit&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blacksujit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Blacksujit/Blacksujit/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
-## 👋 Hey, I'm Sujit
+## 🧰 Toolbox — The Honest Version
 
-An random builder working at the seam between research and production. I take ideas from **0 → 1** — reading the paper, building the prototype, and hardening it until it survives real users and real traffic. LLMs, agents, and computer vision are my current playgrounds; shipping is the constant.
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
+![LangChain](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=chainlink)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
 
-## 🧠 The Operating Principle
-
-Most people read papers. Some people build products. I do the dangerous thing in the middle:
-
-> **Take a 2024 arXiv preprint, distill it, productionize it, and put it in front of real users before the hype cycle catches up.**
-
-I don't collect frameworks. I collect *abstractions* — things that survive across architectures, models, and hype cycles.
-
----
-
-## 🔬 Research Track
-
-I run a simple loop:
-
-```
-paper → reproduce → break it → understand why → rebuild better → ship
-```
-
-**Currently deep in:**
-- 🧩 **Multi-Agent Systems** — orchestration, tool use, agent memory, and the unsolved question of *when agents should NOT be used*
-- 🔗 **Deep Agents & MCP** — composable tool ecosystems, long-horizon planning
-- 📐 **The Math Underneath** — tensors, optimization geometry, the stuff that makes intuition real
-- 🛡️ **DevSecOps for ML** — because a model that can't survive production is a demo, not a system
-
-**What I'm skeptical about right now:** agent frameworks with more YAML than reasoning.
-
----
-
-## 🏗️ Build Track
-
-Things I've shipped or am shipping:
-
-| Layer | What lives there |
-|-------|-----------------|
-| **Intelligence** | LLM apps, multi-agent pipelines, CV systems |
-| **Serving** | FastAPI, production ML APIs, latency-aware inference |
-| **Infrastructure** | Docker, PostgreSQL, Redis, MLOps pipelines |
-| **Glue** | Python, JavaScript, C++, SQL |
-
-```python
-class Sujit:
-    """
-    Not a framework user. A systems thinker.
-    """
-
-    def __init__(self):
-        self.mode = "0 → 1"
-        self.tools = {"PyTorch", "FastAPI", "Docker", "PostgreSQL", "Redis"}
-        self.invariants = [
-            "Latency is a feature.",
-            "Evals before vibes.",
-            "Every abstraction earns its complexity.",
-            "If it can't be monitored, it isn't shipped.",
-        ]
-
-    def loop(self):
-        while True:
-            idea = self.read_papers()        # research input
-            system = self.prototype(idea)    # builder output
-            yield self.harden(system)        # production reality check
-```
-
----
-
-## 🧰 Toolbox (the honest version)
+</div>
 
 **Daily drivers:** Python · PyTorch · FastAPI · Docker · PostgreSQL
-**When needed:** OpenCV · TensorFlow · Redis · AWS · C++
-**Opinion:** The best tool is the one you'll still understand in 6 months.
+**When the problem calls for it:** OpenCV · Neo4j · LangGraph · Redis · GCP/AWS · C++
+**Currently learning:** inference optimization (quantization, KV-cache management, serving) — because tokens are the new cloud bill
+
+---
+
+## ✍️ Writing & Open Source
+
+I write about the research → production seam on [Hashnode](https://hashnode.com/@BlackShadow1) — architecture decisions, failure post-mortems, and eval methodology. If you want to know how I think, the writing is a better signal than the repos.
 
 ---
 
 ## 🤝 Open To
 
-- Collaborating on **agentic systems**, **production ML**, or anything at the research-to-product seam
-- Breaking each other's architectures in code review
-- Arguing about whether scaling fixes everything (I have a position)
+- Agentic systems, production ML, or anything living at the research → product seam
+- Code review that breaks my architecture before prod does
+- A real argument about whether scaling fixes everything — I have a position, and receipts
 
 ---
 
-## 📡 Signal
+## 📡 Reach Me
 
 <div align="center">
 
@@ -111,9 +150,12 @@ class Sujit:
 
 ---
 
+<div align="center">
+
 > *"In God we trust, all others must bring data."* — W. Edwards Deming
->
 > *And if you bring data, bring evals.*
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
