@@ -1,20 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujit%20Nirmal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%E2%80%94%20Research%20in%2C%20Production%20out&descAlignY=51&descAlign=50" width="100%"/>
+
+<img
+    src="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/ascii-magic-1.png"
+    width="100%"
+    alt="ASCII Banner"/>
+
+<br><br>
+
+# Sujit Nirmal
+
+### AI Systems Engineer • Agentic AI • LLM Infrastructure • Production ML
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+ship.;Agentic+RAG+%E2%80%A2+LLM+Evaluation+%E2%80%A2+ML+Infrastructure.;Distributed+Inference+%E2%80%A2+Multi-Agent+Systems.;Research+with+production+constraints.;0+%E2%86%92+1+is+where+I+feel+at+home.)](https://git.io/typing-svg)
+
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=680&lines=Agentic+RAG+%C2%B7+LLM+Evals+%C2%B7+Production+ML;Systems+that+survive+past+the+demo.;Measured+impact+%3E+vibes.+Always.;0+%E2%86%92+1+is+my+favorite+number.)](https://git.io/typing-svg)
-
-</div>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/assets/ascii-sunset.svg" type="image/svg+xml" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/assets/ascii-sunset.jpg" />
-<img src="https://raw.githubusercontent.com/Blacksujit/Blacksujit/main/assets/ascii-sunset.jpg" width="100%" alt="ASCII sunset over mountains — animated" />
-</picture>
 
 ---
+
+<p align="center">
+<i>
+"Research in. Production out."
+</i>
+</p>
+ 
 
 ## 🧭 Start Here — The 90-Second Version
 
@@ -116,7 +124,9 @@ next projects come from.
 </div>
 
 **Daily drivers:** Python · PyTorch · FastAPI · Docker · PostgreSQL
+</Br>
 **When the problem calls for it:** OpenCV · Neo4j · LangGraph · Redis · GCP/AWS · C++
+</Br>
 **Currently learning:** inference optimization (quantization, KV-cache management, serving) — because tokens are the new cloud bill
 
 ---
