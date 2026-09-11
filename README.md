@@ -115,11 +115,13 @@ Most of my next projects start somewhere in this section.
 <!-- <a href="https://github.com/Blacksujit">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Blacksujit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00F5D4" alt="Sujit Nirmal's GitHub statistics"/>
 </a> -->
-
 <a href="https://github.com/Blacksujit">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Blacksujit&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00F5D4&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Sujit Nirmal's GitHub contribution streak"/>
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=Blacksujit&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=00F5D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="Sujit Nirmal's GitHub contribution streak"
+  />
 </a>
- 
 
 <!-- <a href="https://github.com/Blacksujit">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blacksujit&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Sujit Nirmal's most used languages"/>
