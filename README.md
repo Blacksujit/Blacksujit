@@ -115,6 +115,8 @@ Most of my next projects start somewhere in this section.
 <!-- <a href="https://github.com/Blacksujit">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Blacksujit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00F5D4" alt="Sujit Nirmal's GitHub statistics"/>
 </a> -->
+
+
 <a href="https://github.com/Blacksujit">
   <img
     height="180"
@@ -128,11 +130,11 @@ Most of my next projects start somewhere in this section.
 </a> -->
  
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blacksujit/Blacksujit/output/github-snake.svg" />
   <img width="95%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Blacksujit/Blacksujit/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 </div>
 
