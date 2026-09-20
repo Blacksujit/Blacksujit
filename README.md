@@ -188,7 +188,7 @@ If you want to understand how I think, the writing is probably a better signal t
 
 ---
 
-## 🤝 Open To
+## 🤝 Discuss with me 
 
 * **Agentic AI, production ML, AI infrastructure, or research engineering**
 * Systems where **distributed systems + ML** actually have to work together
