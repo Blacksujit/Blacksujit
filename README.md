@@ -169,7 +169,7 @@ Most of my next projects start somewhere in this section.
 
 | Layer                   | Stack                                                                            |
 | ----------------------- | -------------------------------------------------------------------------------- |
-| **Core**                | Python · PyTorch · C++ · FastAPI · PostgreSQL                                    |
+| **Core**                | Python · Tensorflow  · PyTorch · C++ · FastAPI · PostgreSQL                                    |
 | **AI / Data**           | Agentic RAG · Knowledge Graphs · LangGraph · FAISS · OpenCV · LLM Evaluation     |
 | **Infrastructure**      | Docker · Kubernetes · Redis · GCP · AWS · GitHub Actions · CI/CD                 |
 | **Currently Exploring** | Quantization · KV-cache optimization · Inference serving · Distributed inference |
