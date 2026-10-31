@@ -12,7 +12,6 @@ My work sits across **Machine Learning, Deep Learning, LLMs, agentic systems, re
 
 I've worked on systems that moved **revenue, user engagement, and engineering velocity** — not just benchmark scores.
 
-I also spend a lot of time in other people's code. In October 2026, 30 of my pull requests were merged into pandas-stubs, typeshed, MLflow, DSPy, ONNX, Hugging Face Hub and Kestra.
 
 [Portfolio](https://sujit.top) · [Writing](https://blackshadow.hashnode.dev) · [LinkedIn](https://linkedin.com/in/sujit-nirmal) · [X](https://x.com/sujit_nirmal05)
 
