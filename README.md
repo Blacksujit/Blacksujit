@@ -125,6 +125,12 @@ Most of my next projects start somewhere in this section.
   />
 </a>
 
+<br/>
+
+<a href="https://github.com/search?type=pullrequests&q=author%3ABlacksujit+is%3Apr+is%3Amerged"><img alt="PRs merged" src="https://img.shields.io/github/issues-search?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white&label=PRs%20merged&color=00F5D4&query=author%3ABlacksujit%20is%3Apr%20is%3Amerged"/></a>
+<a href="https://github.com/search?type=pullrequests&q=author%3ABlacksujit+is%3Apr"><img alt="PRs opened" src="https://img.shields.io/github/issues-search?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white&label=PRs%20opened&color=58A6FF&query=author%3ABlacksujit%20is%3Apr"/></a>
+<a href="https://github.com/search?type=issues&q=author%3ABlacksujit+is%3Aissue"><img alt="Issues opened" src="https://img.shields.io/github/issues-search?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white&label=Issues%20opened&color=58A6FF&query=author%3ABlacksujit%20is%3Aissue"/></a>
+
 <!-- <a href="https://github.com/Blacksujit">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blacksujit&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Sujit Nirmal's most used languages"/>
 </a> -->
