@@ -186,6 +186,9 @@ I write about the **research → production seam** on [Hashnode](https://hashnod
 
 If you want to understand how I think, the writing is probably a better signal than a list of technologies.
 
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/8%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:Blacksujit+is:pr+is:merged&type=pullrequests)
+
 ---
 
 ## 🤝 Discuss with me 
