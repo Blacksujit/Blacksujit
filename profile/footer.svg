@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-label="A neural network with signals flowing through its layers, next to a falling loss curve">
+<style>
+.e{stroke:#58A6FF;stroke-opacity:.13;stroke-width:1}
+.n{fill:#0D1117;stroke:#58A6FF;stroke-width:1.6;animation:glow 3.2s ease-in-out infinite}
+.p{fill:#00F5D4;animation:move 2.6s cubic-bezier(.45,0,.55,1) infinite;opacity:0}
+.t{font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8B949E;letter-spacing:.08em}
+.ax{stroke:#30363D;stroke-width:1}
+.c{fill:none;stroke:#00F5D4;stroke-width:1.6;stroke-dasharray:260;stroke-dashoffset:260;animation:draw 6s ease-out infinite}
+@keyframes glow{0%,100%{fill:#0D1117}50%{fill:#1f6feb}}
+@keyframes move{0%{offset-distance:0%;opacity:0}12%{opacity:1}88%{opacity:1}100%{offset-distance:100%;opacity:0}}
+@keyframes draw{0%{stroke-dashoffset:260}70%,100%{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.n,.p,.c{animation:none}.p{display:none}.c{stroke-dashoffset:0}}
+</style>
+<rect width="900" height="170" rx="14" fill="#0D1117"/>
+<line class="e" x1="80.0" y1="49.5" x2="225.0" y2="31.2"/>
+<line class="e" x1="80.0" y1="49.5" x2="225.0" y2="49.5"/>
+<line class="e" x1="80.0" y1="49.5" x2="225.0" y2="67.8"/>
+<line class="e" x1="80.0" y1="49.5" x2="225.0" y2="86.2"/>
+<line class="e" x1="80.0" y1="49.5" x2="225.0" y2="104.5"/>
+<line class="e" x1="80.0" y1="49.5" x2="225.0" y2="122.8"/>
+<line class="e" x1="80.0" y1="67.8" x2="225.0" y2="31.2"/>
+<line class="e" x1="80.0" y1="67.8" x2="225.0" y2="49.5"/>
+<line class="e" x1="80.0" y1="67.8" x2="225.0" y2="67.8"/>
+<line class="e" x1="80.0" y1="67.8" x2="225.0" y2="86.2"/>
+<line class="e" x1="80.0" y1="67.8" x2="225.0" y2="104.5"/>
+<line class="e" x1="80.0" y1="67.8" x2="225.0" y2="122.8"/>
+<line class="e" x1="80.0" y1="86.2" x2="225.0" y2="31.2"/>
+<line class="e" x1="80.0" y1="86.2" x2="225.0" y2="49.5"/>
+<line class="e" x1="80.0" y1="86.2" x2="225.0" y2="67.8"/>
+<line class="e" x1="80.0" y1="86.2" x2="225.0" y2="86.2"/>
+<line class="e" x1="80.0" y1="86.2" x2="225.0" y2="104.5"/>
+<line class="e" x1="80.0" y1="86.2" x2="225.0" y2="122.8"/>
+<line class="e" x1="80.0" y1="104.5" x2="225.0" y2="31.2"/>
+<line class="e" x1="80.0" y1="104.5" x2="225.0" y2="49.5"/>
+<line class="e" x1="80.0" y1="104.5" x2="225.0" y2="67.8"/>
+<line class="e" x1="80.0" y1="104.5" x2="225.0" y2="86.2"/>
+<line class="e" x1="80.0" y1="104.5" x2="225.0" y2="104.5"/>
+<line class="e" x1="80.0" y1="104.5" x2="225.0" y2="122.8"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="22.0"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="40.3"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="58.7"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="77.0"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="95.3"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="113.7"/>
+<line class="e" x1="225.0" y1="31.2" x2="370.0" y2="132.0"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="22.0"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="40.3"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="58.7"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="77.0"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="95.3"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="113.7"/>
+<line class="e" x1="225.0" y1="49.5" x2="370.0" y2="132.0"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="22.0"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="40.3"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="58.7"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="77.0"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="95.3"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="113.7"/>
+<line class="e" x1="225.0" y1="67.8" x2="370.0" y2="132.0"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="22.0"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="40.3"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="58.7"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="77.0"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="95.3"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="113.7"/>
+<line class="e" x1="225.0" y1="86.2" x2="370.0" y2="132.0"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="22.0"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="40.3"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="58.7"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="77.0"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="95.3"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="113.7"/>
+<line class="e" x1="225.0" y1="104.5" x2="370.0" y2="132.0"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="22.0"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="40.3"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="58.7"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="77.0"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="95.3"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="113.7"/>
+<line class="e" x1="225.0" y1="122.8" x2="370.0" y2="132.0"/>
+<line class="e" x1="370.0" y1="22.0" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="22.0" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="22.0" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="22.0" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="22.0" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="22.0" x2="515.0" y2="122.8"/>
+<line class="e" x1="370.0" y1="40.3" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="40.3" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="40.3" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="40.3" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="40.3" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="40.3" x2="515.0" y2="122.8"/>
+<line class="e" x1="370.0" y1="58.7" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="58.7" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="58.7" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="58.7" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="58.7" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="58.7" x2="515.0" y2="122.8"/>
+<line class="e" x1="370.0" y1="77.0" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="77.0" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="77.0" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="77.0" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="77.0" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="77.0" x2="515.0" y2="122.8"/>
+<line class="e" x1="370.0" y1="95.3" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="95.3" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="95.3" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="95.3" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="95.3" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="95.3" x2="515.0" y2="122.8"/>
+<line class="e" x1="370.0" y1="113.7" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="113.7" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="113.7" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="113.7" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="113.7" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="113.7" x2="515.0" y2="122.8"/>
+<line class="e" x1="370.0" y1="132.0" x2="515.0" y2="31.2"/>
+<line class="e" x1="370.0" y1="132.0" x2="515.0" y2="49.5"/>
+<line class="e" x1="370.0" y1="132.0" x2="515.0" y2="67.8"/>
+<line class="e" x1="370.0" y1="132.0" x2="515.0" y2="86.2"/>
+<line class="e" x1="370.0" y1="132.0" x2="515.0" y2="104.5"/>
+<line class="e" x1="370.0" y1="132.0" x2="515.0" y2="122.8"/>
+<line class="e" x1="515.0" y1="31.2" x2="660.0" y2="58.7"/>
+<line class="e" x1="515.0" y1="31.2" x2="660.0" y2="77.0"/>
+<line class="e" x1="515.0" y1="31.2" x2="660.0" y2="95.3"/>
+<line class="e" x1="515.0" y1="49.5" x2="660.0" y2="58.7"/>
+<line class="e" x1="515.0" y1="49.5" x2="660.0" y2="77.0"/>
+<line class="e" x1="515.0" y1="49.5" x2="660.0" y2="95.3"/>
+<line class="e" x1="515.0" y1="67.8" x2="660.0" y2="58.7"/>
+<line class="e" x1="515.0" y1="67.8" x2="660.0" y2="77.0"/>
+<line class="e" x1="515.0" y1="67.8" x2="660.0" y2="95.3"/>
+<line class="e" x1="515.0" y1="86.2" x2="660.0" y2="58.7"/>
+<line class="e" x1="515.0" y1="86.2" x2="660.0" y2="77.0"/>
+<line class="e" x1="515.0" y1="86.2" x2="660.0" y2="95.3"/>
+<line class="e" x1="515.0" y1="104.5" x2="660.0" y2="58.7"/>
+<line class="e" x1="515.0" y1="104.5" x2="660.0" y2="77.0"/>
+<line class="e" x1="515.0" y1="104.5" x2="660.0" y2="95.3"/>
+<line class="e" x1="515.0" y1="122.8" x2="660.0" y2="58.7"/>
+<line class="e" x1="515.0" y1="122.8" x2="660.0" y2="77.0"/>
+<line class="e" x1="515.0" y1="122.8" x2="660.0" y2="95.3"/>
+<circle class="p" r="2.6" style="offset-path:path('M370.0,40.3 L515.0,86.2');animation-delay:0.19s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,49.5 L225.0,67.8');animation-delay:1.52s"/>
+<circle class="p" r="2.6" style="offset-path:path('M225.0,31.2 L370.0,22.0');animation-delay:1.68s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,67.8 L225.0,31.2');animation-delay:1.43s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,49.5 L225.0,49.5');animation-delay:1.64s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,104.5 L225.0,31.2');animation-delay:2.54s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,67.8 L225.0,67.8');animation-delay:1.09s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,86.2 L225.0,104.5');animation-delay:2.12s"/>
+<circle class="p" r="2.6" style="offset-path:path('M225.0,31.2 L370.0,95.3');animation-delay:2.04s"/>
+<circle class="p" r="2.6" style="offset-path:path('M225.0,67.8 L370.0,22.0');animation-delay:1.97s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,49.5 L225.0,104.5');animation-delay:0.54s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,67.8 L660.0,77.0');animation-delay:0.57s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,67.8 L660.0,77.0');animation-delay:2.30s"/>
+<circle class="p" r="2.6" style="offset-path:path('M225.0,122.8 L370.0,132.0');animation-delay:1.18s"/>
+<circle class="p" r="2.6" style="offset-path:path('M370.0,95.3 L515.0,86.2');animation-delay:0.78s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,67.8 L660.0,95.3');animation-delay:1.60s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,104.5 L225.0,49.5');animation-delay:1.97s"/>
+<circle class="p" r="2.6" style="offset-path:path('M225.0,86.2 L370.0,77.0');animation-delay:0.65s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,86.2 L225.0,67.8');animation-delay:1.81s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,104.5 L660.0,77.0');animation-delay:1.83s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,86.2 L225.0,86.2');animation-delay:1.81s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,49.5 L225.0,122.8');animation-delay:1.82s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,67.8 L660.0,95.3');animation-delay:0.05s"/>
+<circle class="p" r="2.6" style="offset-path:path('M370.0,22.0 L515.0,86.2');animation-delay:2.02s"/>
+<circle class="p" r="2.6" style="offset-path:path('M80.0,104.5 L225.0,31.2');animation-delay:0.57s"/>
+<circle class="p" r="2.6" style="offset-path:path('M370.0,40.3 L515.0,122.8');animation-delay:1.74s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,86.2 L660.0,58.7');animation-delay:2.08s"/>
+<circle class="p" r="2.6" style="offset-path:path('M515.0,104.5 L660.0,77.0');animation-delay:1.35s"/>
+<circle class="n" cx="80.0" cy="49.5" r="6" style="animation-delay:0.00s"/>
+<circle class="n" cx="80.0" cy="67.8" r="6" style="animation-delay:0.12s"/>
+<circle class="n" cx="80.0" cy="86.2" r="6" style="animation-delay:0.24s"/>
+<circle class="n" cx="80.0" cy="104.5" r="6" style="animation-delay:0.36s"/>
+<circle class="n" cx="225.0" cy="31.2" r="6" style="animation-delay:0.45s"/>
+<circle class="n" cx="225.0" cy="49.5" r="6" style="animation-delay:0.57s"/>
+<circle class="n" cx="225.0" cy="67.8" r="6" style="animation-delay:0.69s"/>
+<circle class="n" cx="225.0" cy="86.2" r="6" style="animation-delay:0.81s"/>
+<circle class="n" cx="225.0" cy="104.5" r="6" style="animation-delay:0.93s"/>
+<circle class="n" cx="225.0" cy="122.8" r="6" style="animation-delay:1.05s"/>
+<circle class="n" cx="370.0" cy="22.0" r="6" style="animation-delay:0.90s"/>
+<circle class="n" cx="370.0" cy="40.3" r="6" style="animation-delay:1.02s"/>
+<circle class="n" cx="370.0" cy="58.7" r="6" style="animation-delay:1.14s"/>
+<circle class="n" cx="370.0" cy="77.0" r="6" style="animation-delay:1.26s"/>
+<circle class="n" cx="370.0" cy="95.3" r="6" style="animation-delay:1.38s"/>
+<circle class="n" cx="370.0" cy="113.7" r="6" style="animation-delay:1.50s"/>
+<circle class="n" cx="370.0" cy="132.0" r="6" style="animation-delay:1.62s"/>
+<circle class="n" cx="515.0" cy="31.2" r="6" style="animation-delay:1.35s"/>
+<circle class="n" cx="515.0" cy="49.5" r="6" style="animation-delay:1.47s"/>
+<circle class="n" cx="515.0" cy="67.8" r="6" style="animation-delay:1.59s"/>
+<circle class="n" cx="515.0" cy="86.2" r="6" style="animation-delay:1.71s"/>
+<circle class="n" cx="515.0" cy="104.5" r="6" style="animation-delay:1.83s"/>
+<circle class="n" cx="515.0" cy="122.8" r="6" style="animation-delay:1.95s"/>
+<circle class="n" cx="660.0" cy="58.7" r="6" style="animation-delay:1.80s"/>
+<circle class="n" cx="660.0" cy="77.0" r="6" style="animation-delay:1.92s"/>
+<circle class="n" cx="660.0" cy="95.3" r="6" style="animation-delay:2.04s"/>
+<line class="ax" x1="735" y1="32" x2="735" y2="112"/><line class="ax" x1="735" y1="112" x2="860" y2="112"/>
+<polyline class="c" points="739.0,38.9 741.0,45.1 743.0,49.0 745.0,54.5 747.0,59.0 749.0,64.6 751.0,68.6 753.0,70.1 755.0,73.4 757.0,76.5 759.0,79.2 761.0,82.2 763.0,84.7 765.0,86.0 767.0,87.3 769.0,89.9 771.0,91.4 773.0,93.2 775.0,95.3 777.0,95.9 779.0,96.7 781.0,97.8 783.0,98.8 785.0,98.6 787.0,100.8 789.0,101.2 791.0,102.0 793.0,102.4 795.0,102.3 797.0,102.8 799.0,102.9 801.0,104.0 803.0,103.6 805.0,104.0 807.0,104.5 809.0,104.7 811.0,105.2 813.0,105.1 815.0,105.3 817.0,105.6 819.0,105.8 821.0,106.2 823.0,106.1 825.0,106.9 827.0,106.8 829.0,106.6 831.0,106.8 833.0,106.9 835.0,107.0 837.0,107.0 839.0,107.4 841.0,107.5 843.0,107.4 845.0,107.4 847.0,107.4 849.0,107.4 851.0,107.5 853.0,107.6 855.0,107.7 857.0,107.7 859.0,107.7"/>
+<text class="t" x="735" y="22">loss</text><text class="t" x="860" y="128" text-anchor="end">step</text>
+<text class="t" x="450.0" y="160" text-anchor="middle">forward · loss · backward · repeat</text></svg>
