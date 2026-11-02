@@ -21,8 +21,8 @@ I've worked on systems that moved **revenue, user engagement, and engineering ve
 
 | Result | Where | What |
 | --- | --- | --- |
-| **1st of 52** | WhipScribe Buildathon 2026 | [CallCoach-AI](https://callcoachai.sujit.top): four agents score a call, and every flag plays from the second it was said. |
-| **0.45 → 0.79 accuracy** | Datathon 2025, 2nd runner-up | TF-IDF and logistic regression. A teammate carried the online round while I was in hospital. |
+| **1st 🥇** | WhipScribe Buildathon 2026 | [CallCoach-AI](https://callcoachai.sujit.top): four agents score a call, and every flag plays from the second it was said. |
+| **2nd 🥈** | Datathon 2025, 2nd runner-up | Designed scalable computer vision  system having ML backend for retail stores like dmart and wallmart using computer vision for item price , monitoring and to improve sales of the retail shop using computer vision showing high scale AI implementations taking vision model accuracy from 45% → 79% accuracy. |
 | **Top 30 nationwide** | Hackspiration '24 | [HarvestConnect](https://github.com/Blacksujit/HarvestConnect), a farm-to-buyer marketplace. |
 | **Shortlisted for the finals** | 100x Engineers GenAI Hackathon 2024 | [Dataviz AI](https://github.com/Blacksujit/100X-Engineers-GenAI-Hackathon-Submission) turns raw data into animated infographic videos. |
 | **Shortlisted, internal round** | Smart India Hackathon 2024 | [ArogyaKrishi](https://github.com/Blacksujit/ArogyaKrishi), crop disease and soil analysis. |
@@ -35,7 +35,7 @@ I've worked on systems that moved **revenue, user engagement, and engineering ve
 
 **[CallCoach-AI](https://callcoachai.sujit.top)** scores a founder's investor call with four agents. Every flag has a button that plays the recording from the second it was said, so you can check it yourself. It won the [WhipScribe Buildathon](https://whipscribe.com/buildathon) in October 2026, first of 52 builders. [Code](https://github.com/Blacksujit/callcoach-ai-whhipscribe) · [How it works](https://sujit.top/missions/callcoach)
 
-**[ArogyaKrishi](https://github.com/Blacksujit/ArogyaKrishi)** is my most-starred repo. A farmer uploads a photo of a leaf or of the soil and gets back the crop disease, the soil type, and crop and fertilizer recommendations. Disease detection is a ResNet9, soil type comes from DenseNet121 and SoilNet, and crop recommendation is a random forest. Built with team Anant for Smart India Hackathon 2024 (problem statement SIH1638).
+**[ArogyaKrishi](https://github.com/Blacksujit/ArogyaKrishi)** **ArogyaKrishi** is my most-starred repository, built with Team Anant for Smart India Hackathon 2024 (SIH1638). An AI-powered farming assistant that helps farmers detect crop diseases, understand soil health, and get personalized crop and fertilizer recommendations through simple image uploads. We onboarded local farmers to test our MVP in real-world conditions, turning their feedback into actionable improvements. Our mission: make AI-driven agriculture accessible, empower farmers with smarter decisions, and promote sustainable farming.
 
 **[Sentinel-AI](https://sentinelaihq.com)** sits next to an LLM and scores every prompt and response from 0 to 100, with the claims and flags behind the score, then decides whether to serve, fix or block the answer. The Python SDK is on PyPI as [`sentinelai-risk`](https://pypi.org/project/sentinelai-risk/). [Code](https://github.com/Blacksujit/Sentinel-AI) · [How it works](https://sujit.top/missions/sentinel)
 
