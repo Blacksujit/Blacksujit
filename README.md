@@ -28,7 +28,6 @@ I've worked on systems that moved **revenue, user engagement, and engineering ve
 | **Shortlisted, internal round** | Smart India Hackathon 2024 | [ArogyaKrishi](https://github.com/Blacksujit/ArogyaKrishi), crop disease and soil analysis. |
 | **300+ users** | [CallCoach-AI](https://callcoachai.sujit.top) | Founders and sales teams scoring their calls. Real traffic: enough of it that we ran through our API quota. |
 | **+2% revenue** | [Launchpad.AI](https://www.launchpad.ai/) | Multi-agent and Graph-RAG systems shipped to a live customer. I ran the retrieval evals and the A/B ranking tests. |
-| **30 PRs merged** | Open source, Oct 2026 | pandas-stubs, typeshed, MLflow, DSPy, ONNX, Hugging Face Hub and Kestra. |
 | **30+ contributors** | [HeadOn](https://headon.ai/) | Coordinated the training-data labelling and ran the precision, recall and F1 evals that decided what to fix next. |
 
 ## What I'm building
