@@ -6,9 +6,11 @@
 
 # Sujit Nirmal
 
-**I'm Sujit.** I build at the point where machine learning stops being a research artifact and starts becoming a real system.
+ **Hi, 👋** 
 
-My work sits across **Machine Learning, Deep Learning, LLMs, agentic systems, retrieval, evaluation, computer vision, and product engineering**. I care about what happens after the demo: messy inputs, imperfect models, latency, observability, cost, reliability, and the engineer who eventually has to operate the thing.
+**I'm Sujit.** 
+
+My work sits across **Machine Learning, Deep Learning, NLP  , GenAI , LLMs, agentic systems, retrieval, evaluation, computer vision, and product engineering**. I care about what happens after the demo: messy inputs, imperfect models, latency, observability, cost, reliability, and the engineer who eventually has to operate the thing. and love to make more progress in GenAI 
 
 I've worked on systems that moved **revenue, user engagement, and engineering velocity** — not just benchmark scores.
 
