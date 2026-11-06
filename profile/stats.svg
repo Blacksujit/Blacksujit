@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sujit Nirmal &#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 90, Total Commits  : 2495, Total PRs: 139, Total PRs Merged: 73, Merged PRs Percentage: 52.52, Total PRs Reviewed: 1, Total Issues: 106, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Stars Earned: 90, Total Commits  : 2502, Total PRs: 139, Total PRs Merged: 73, Merged PRs Percentage: 52.52, Total PRs Reviewed: 1, Total Issues: 106, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.69051128310223;
+        stroke-dashoffset: 66.6545455354992;
       }
     }
   
