@@ -54,14 +54,14 @@ Most of these started the same way: I ran a checker against real code and fixed 
 | Project | Merged | Some of them |
 | --- | :---: | --- |
 | [pandas-dev/pandas-stubs](https://github.com/pandas-dev/pandas-stubs/pulls?q=is%3Apr+author%3ABlacksujit+is%3Amerged) | 9 | [DataFrameGroupBy.value_counts](https://github.com/pandas-dev/pandas-stubs/pull/2000), [CategoricalIndex methods](https://github.com/pandas-dev/pandas-stubs/pull/2026), [pd.option_context](https://github.com/pandas-dev/pandas-stubs/pull/2006) |
-| [Kestra](https://github.com/search?q=org%3Akestra-io+author%3ABlacksujit+is%3Apr+is%3Amerged&type=pullrequests) | 8 | [kestractl: commands for Kestra 2.0 MCP servers](https://github.com/kestra-io/kestractl/pull/206), [Kafka trigger error handling](https://github.com/kestra-io/plugin-kafka/pull/258), [MCP server trigger state](https://github.com/kestra-io/mcp-server-python/pull/24) |
+| [Kestra](https://github.com/search?q=org%3Akestra-io+author%3ABlacksujit+is%3Apr+is%3Amerged&type=pullrequests) | 10 | [kestractl: commands for Kestra 2.0 MCP servers](https://github.com/kestra-io/kestractl/pull/206), [Kafka trigger error handling](https://github.com/kestra-io/plugin-kafka/pull/258), [MCP server trigger state](https://github.com/kestra-io/mcp-server-python/pull/24) |
 | [python/typeshed](https://github.com/python/typeshed/pulls?q=is%3Apr+author%3ABlacksujit+is%3Amerged) | 7 | [grpcio](https://github.com/python/typeshed/pull/16565), [pycocotools](https://github.com/python/typeshed/pull/16577), [hnswlib](https://github.com/python/typeshed/pull/16578) |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow/pulls?q=is%3Apr+author%3ABlacksujit+is%3Amerged) | 2 | [`attributes.` prefix in search_experiments](https://github.com/mlflow/mlflow/pull/26923) |
 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy/pulls?q=is%3Apr+author%3ABlacksujit+is%3Amerged) | 2 | [negative numbers in Literal signatures](https://github.com/stanfordnlp/dspy/pull/10678) |
 | [onnx/onnx](https://github.com/onnx/onnx/pull/8645) | 1 | [BitCast bit-widths for sub-byte types](https://github.com/onnx/onnx/pull/8645) |
 | [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub/pull/5212) | 1 | [docs examples that raised TypeError](https://github.com/huggingface/huggingface_hub/pull/5212) |
 
-[![Contributor](https://img.shields.io/badge/8%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:Blacksujit+is:pr+is:merged&type=pullrequests)
+[![Contributor](https://img.shields.io/badge/10%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:Blacksujit+is:pr+is:merged&type=pullrequests)
 
 ## Writing
 
